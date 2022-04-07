@@ -1,5 +1,5 @@
 # Hi! I'm Maxwell
-- I'm a CS undergraduate in New York University
+- I'm a CS undergraduate at New York University
 - I mostly code in Python, sometimes Javascript, C or Go
 - I've been reading "The Amazing Spider-man" comics from the 60s. Sometimes I play chess and draw stuff(amateur level).
 - Drop an issue here if you have any cool ideas you wanna share (or internship offers 👻 )
