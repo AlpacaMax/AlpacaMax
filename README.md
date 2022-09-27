@@ -1,3 +1,4 @@
+<img align="left" src="profile.png" alt="Generated through Stable Diffusion based model" width="220" />
 ``` yaml
 Name:                   Tian(Maxwell) Yang
 Status:                 "Looking for Part-Time work in Spring 2023"
